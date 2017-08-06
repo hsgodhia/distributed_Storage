@@ -1,0 +1,5 @@
+{3002: ('Sensor', 'Door')}
+{3002: ('Sensor', 'Door'), 2002: ('Sensor', 'Motion')}
+{2002: ('Sensor', 'Motion'), 1002: ('Device', 'Bulb'), 3002: ('Sensor', 'Door')}
+{2002: ('Sensor', 'Motion'), 1002: ('Device', 'Bulb'), 3003: ('Device', 'Outlet'), 3002: ('Sensor', 'Door')}
+{2002: ('Sensor', 'Motion'), 1002: ('Device', 'Bulb'), 3003: ('Device', 'Outlet'), 3002: ('Sensor', 'Door'), 2003: ('Sensor', 'Temperature')}
