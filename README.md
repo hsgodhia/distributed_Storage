@@ -32,4 +32,4 @@ ex: `python3 ./src/gatewayfront.py localhost:9090 1000` where the PID is 1000
 - A description of all the test files and code is give [here](docs/TestFileDescriptions.md)
 
 ### Team (individual)
-- Harshal Godhia (hgodhia@cs.umass.edu)
+- Harshal Godhia (harshals@seas.upenn.edu)
